@@ -1,0 +1,17 @@
+{
+  "threshold": 0.5758345723152161,
+  "test_metrics": {
+    "roc_auc": 0.8445632798573974,
+    "recall": 0.7433155080213903,
+    "precision": 0.5504950495049505,
+    "f1": 0.6325369738339022
+  },
+  "best_params": {
+    "clf__subsample": 1.0,
+    "clf__n_estimators": 200,
+    "clf__min_child_weight": 3,
+    "clf__max_depth": 2,
+    "clf__learning_rate": 0.05,
+    "clf__colsample_bytree": 1.0
+  }
+}
