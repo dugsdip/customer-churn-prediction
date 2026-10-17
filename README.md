@@ -2,9 +2,7 @@
 
 A supervised machine learning project that predicts whether a telecom customer is likely to leave (churn). It covers the full workflow: data cleaning, preprocessing, handling class imbalance, model comparison, hyperparameter tuning, threshold selection and deployment as an interactive web app.
 
-<!-- After deploying on Streamlit Community Cloud, uncomment and edit this line:
-**Live demo:** https://YOUR-APP-NAME.streamlit.app
--->
+**Live demo:** https://YOUR-REAL-LINK.streamlit.app
 
 <!-- After adding screenshots to an images/ folder, uncomment these lines:
 ![High-risk customer](images/app-high-risk.png)
