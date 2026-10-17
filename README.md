@@ -2,12 +2,13 @@
 
 A supervised machine learning project that predicts whether a telecom customer is likely to leave (churn). It covers the full workflow: data cleaning, preprocessing, handling class imbalance, model comparison, hyperparameter tuning, threshold selection and deployment as an interactive web app.
 
-**Live demo:** [https://YOUR-REAL-LINK.streamlit.app](https://customer-churn-prediction-wytplurzeoz5gw68bh5dia.streamlit.app)
+**Live demo:** (https://customer-churn-prediction-wytplurzeoz5gw68bh5dia.streamlit.app)
 
-<!-- After adding screenshots to an images/ folder, uncomment these lines:
-![High-risk customer](images/app-high-risk.png)
-![Low-risk customer](images/app-low-risk.png)
--->
+[High-risk customer]<img width="1876" height="944" alt="image" src="https://github.com/user-attachments/assets/84cb741e-4d0a-4f0d-b475-8869bc7b7ce2" />
+
+![Low-risk customer]<img width="1853" height="924" alt="image" src="https://github.com/user-attachments/assets/c952a691-cb44-4f16-a143-6da494a1b49e" />
+
+
 
 ## Problem
 
